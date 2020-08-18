@@ -1,6 +1,6 @@
-# LABORATORIO # 05
+# LABORATORIO # 07
 
-TEMA: TEOREMA DE THÉVENIN
+TEMA: CARACTERÍSTICAS DE LA ONDA SENOIDAL
 ## 1. OBJETIVOS
 
 **1,1.- GENERAL** 
@@ -23,26 +23,12 @@ Este proyecto consistió en la implementación de un circuito mixto lineal, en u
 
 ## 3. MARCO TEÓRICO 
 
-**TEOREMA DE THÉVENIN**
+**ONDA SENOIDAL**
 
-El teorema de Thévenin determina que un circuito eléctrico con dos fuentes de alimentación es equivalente a un circuito formado por una fuente de tensión Vth (Voltaje de Thévenin) en serie con una resistencia Rth (Resistencia de Thévenin).
+
   
 ![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Thevenin.png)
 
-Para aplicar este método primero tenemos que tomar en cuenta que:
-* Las fuentes de voltaje se cierran.
-* Las fuentes de corriente se abren.
-* La resistencia a la cual vamos a calcular su voltaje y corriente, se abre.
-
-Para aplicar el teorema correctamente, se deben realizar estos pasos:
-
-1.	Al eliminar las fuentes de tensión o fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thévenin. Se procede a calcular el valor de la resistencia total existente entre los punto A y B donde se encuentre conectada la resistencia de carga.
-
-2.	Para el caso de hallar la tensión de Thévenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde ésta se encontraba.
-
-3.	Construimos el circuito equivalente utilizando la tensión de Thévenin y la resistencia de Thévenin en serie y procedemos a conectar la resistencia de carga entre los puntos de conexión abiertos.
-
-4.	Utilizando las reglas de circuitos en serie, se analiza la tensión y corriente de la resistencia de carga.
 
 ## 4. DIAGRAMAS
 
