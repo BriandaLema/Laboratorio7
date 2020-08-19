@@ -136,7 +136,7 @@ No coinciden, debido a que el valor de 6.75 V es el valor pico de que dispone la
 
 **CÁLCULO DEL ERROR**
 
-Voltaje pico en RL: 4.861 V * x {\displaystyle x}
+Voltaje pico en RL: 4.861 V * {\sqrt  {x}} 
 
 * **VTH (V)**
 
