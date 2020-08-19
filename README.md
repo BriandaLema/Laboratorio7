@@ -161,7 +161,7 @@ https://trello.com/b/psrtdBrJ/laboratorio-7
 
 * Anónimo. (29 de 08 de 2019). EcuRed. Obtenido de https://www.ecured.cu/Onda_senoidal
 * Anónimo. (01 de 09 de 2015). Obtenido de https://es.slideshare.net/vr3220/caractersticas-de-la-onda-senoidal
-* Zapata, F. (s.f.). https://www.lifeder.com/. Obtenido de https://www.lifeder.com/onda-senoidal/
+* Zapata, F. (s.f.). lifeder.com. Obtenido de https://www.lifeder.com/onda-senoidal/
 
 
 
