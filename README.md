@@ -137,6 +137,7 @@ No coinciden, debido a que el valor de 6.75 V es el valor pico de que dispone la
 **CÁLCULO DEL ERROR**
 
 Voltaje pico en RL: 6.87 V 
+
 voltaje que aparece en la pantalla del osciloscopio: 6.75 V
 
 %error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
