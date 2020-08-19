@@ -76,14 +76,12 @@ Comprobación del Teorema de Thévenin
 
 | CANTIDAD| ELEMENTO |
 | ------- | -------------|
-| 2       | Fuente de Voltaje C.D.  |
-| 2       | Multímetros digital  |
-| 1       | Resistor de 560 kΩ   |
-| 1       | Resistor de 4.7 kΩ   |
-| 1       | Resistor de 330 Ω  |
-| 1       | Resistor de 100 Ω|
-| 1       | Resistor de 1 kΩ|
-| 1       | Protoboard                    |
+| 1       | Generador de funciones  |
+| 1       | Osciloscopio  |
+| 1       | Multímetro digital   |
+| 1       | Resistor de 1 kΩ   |
+| 1       | Resistor de 2.2 kΩ  |
+| 1       | Protoboard|
 
 ## 6. MAPA DE VARIABLES 
 
