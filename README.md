@@ -134,9 +134,9 @@ Voltaje en RL: 4.861 V
 
 No coinciden, debido a que el valor de 6.75 V es el valor pico de que dispone la resistencia 2.2k y 4.861 V es el valor rms que dispone está misma.
 
-**ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
+**CÁLCULO DEL ERROR**
 
-VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
+Voltaje pico en RL: 4.861 V * x {\displaystyle x}
 
 * **VTH (V)**
 
