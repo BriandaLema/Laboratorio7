@@ -92,6 +92,30 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 ## 8. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
 Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación y el siguiente análisis del circuito.
+**PREGUNTAS**
+**1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
+
+**2. ¿En qué valor está posicionada la perilla VOLTS/DIV?**
+
+**3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
+
+**4. ¿En qué valor está posicionada la perilla TIME/DIV?**
+
+**5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
+
+Amplitud de voltaje: (V)
+
+Periodo: (s)
+
+**6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
+
+f: 2500 (Hz)
+
+ω: 15707.96 (rad/s)
+
+**7. Con el multímetro digital mida el voltaje de salida en RL.**
+
+**8. Compare el voltaje medido en el punto 5 y el obtenido en el punto 7. ¿Coinciden? _______ ¿Por qué?**
 
 **ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
@@ -168,6 +192,7 @@ https://trello.com/b/psrtdBrJ/laboratorio-7
 
 
 ## 14.- ANEXOS
+https://github.com/BriandaLema/Laboratorio7/blob/master/Anexos/ANEXOS_7.pdf
 
 
 
