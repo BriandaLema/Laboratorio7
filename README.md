@@ -92,20 +92,30 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 ## 8. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
 Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación y el siguiente análisis del circuito.
+
 **PREGUNTAS**
+
 **1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
+
+Observando la gráfica que nos proporciona el osciloscopio se podría decir que la amplitud pico de la señal de salida abarca 3 cuadros y medio.
 
 **2. ¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
+La perilla VOLTS/DIV está posicionada en 2 V.
+
 **3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
+
+Observando la gráfica que nos proporciona el osciloscopio se podría decir que ciclo completo de la señal de salida abarca 2 cuadros.
 
 **4. ¿En qué valor está posicionada la perilla TIME/DIV?**
 
+La perilla TIME/DIV está posicionada en 200 μs.
+
 **5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-Amplitud de voltaje: (V)
+Amplitud de voltaje: 6.75(V)
 
-Periodo: (s)
+Periodo: 0.0004 (s)
 
 **6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
@@ -115,7 +125,11 @@ f: 2500 (Hz)
 
 **7. Con el multímetro digital mida el voltaje de salida en RL.**
 
-**8. Compare el voltaje medido en el punto 5 y el obtenido en el punto 7. ¿Coinciden? _______ ¿Por qué?**
+Voltaje en RL: 4.861 V
+
+**8. Compare el voltaje medido en el punto 5 y el obtenido en el punto 7. ¿Coinciden? ¿Por qué?**
+
+No coinciden, debido a que el valor de 6.75 V está en valor pico y el valor de 4.861 V está en valor rms o valor eficaz.
 
 **ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
