@@ -116,7 +116,7 @@ La perilla TIME/DIV está posicionada en 200 μs.
 
 **5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-Amplitud de voltaje: 6.87 (V)
+Amplitud de voltaje: 6.75 (V)
 
 Periodo: 0.0004 (s)
 
