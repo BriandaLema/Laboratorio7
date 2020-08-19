@@ -46,6 +46,7 @@ Cantidad de ciclos que se repiten en un segundo, se mide en Hertz, y la podemos 
 Se denomida valor rms al valor que tendrá una corriente continua para producir la misma potencia en corriente alterna sobre la misma resistencia.
   
 ![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Caracter%C3%ADsticas%20de%20la%20onda%20senoidal.png)
+
 **1** - Valor pico.
 
 **2** - Valor pico a pico.
