@@ -58,8 +58,8 @@ Se denomida valor rms al valor que tendrá una corriente continua para producir 
 
 Se simula un circuito lineal, es un circuito con dos resistencias en serie conectadas a un generador de funciones.
 
-![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Circuito7.png)
-
+![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Diagrama%201.png)
+![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Diagrama%202.png)
 
 
 
