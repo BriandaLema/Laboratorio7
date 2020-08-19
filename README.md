@@ -136,34 +136,14 @@ No coinciden, debido a que el valor de 6.75 V es el valor pico de que dispone la
 
 **CÁLCULO DEL ERROR**
 
-Voltaje pico en RL: 4.861 V * {\sqrt  {x}} 
-
-* **VTH (V)**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 5.06 V | 5.0556 V |
-
-* **RTH Ω**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 299 Ω | 298.86 Ω |
-
-
-%error= 1.30 % 
-
-- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-Voltaje calculado= 3.84 mA
-
-Voltaje medido= 3.89 mA
+Voltaje pico en RL: 6.87 V 
+voltaje que aparece en la pantalla del osciloscopio: 6.75 V
 
 %error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
 
-%error=(|(3.84 mA - 3.89 mA)|/ 3.84 mA )* 100
+%error=(|6.75 V - 6.87 V)|/ 6.75 )* 100
 
-%error= 1.30 % 
+%error= 1.78 % 
 
 
 ## 9.APORTACIONES
