@@ -159,9 +159,11 @@ https://trello.com/b/psrtdBrJ/laboratorio-7
 
 ## 13. BIBLIOGRAFÍA
 
-* carakenio73. (10 de Noviembre de 2019). dademuchconnection. Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
+* Anónimo. (29 de 08 de 2019). EcuRed. Obtenido de https://www.ecured.cu/Onda_senoidal
+* Anónimo. (01 de 09 de 2015). Obtenido de https://es.slideshare.net/vr3220/caractersticas-de-la-onda-senoidal
+* Zapata, F. (s.f.). https://www.lifeder.com/. Obtenido de https://www.lifeder.com/onda-senoidal/
 
-* XNOMIND. (07 de Noviembre de 2019). Teorema. Obtenido de https://www.teorema.top/teorema-de-thevenin/#Pasos_para_aplicar_el_teorema_de_Thevenin
+
 
 
 
