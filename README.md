@@ -172,14 +172,11 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 ## 10. CONCLUSIONES
 
-Por medio de este laboratorio hemos comprobado de una forma tanto teórica como práctica la funcionalidad del teorema de Thévenin el cual es de grna utilidad ya que nos ayuda a reducir un circuito complejo en uno mucho más sencillo para medir corriente o voltaje en algún elemento del circuitos. 
+Concluimos que el osciloscopio es una herramienta importante que nos permite graficar distintos tipos de señales de tipo sinusioidal, cuadrada triangular, en nuestro caso esencialmente la sinusoidal y al mismo tiempo nos permite calcular variables como voltaje o periodo de la señal
 
-También corroboramos que la resistencia e intensidad calculadas por Thevenin son muy similares a las calculadas mediante las leyes de Kirchhoff.
+El generador de señales se encuentra relacionado directamente con el osciloscopio ya que permite generar distintos tipos de señales que se grafican en el osciloscopio, la cual nos permite mayor obtención de los datos requeridos. 
 
-Habiendo simulado y creado el circuito, podemos meditar que aunque hemos calculado los datos de una manera distinta, hemos podido comprobar que este método es valido y muy efectiva para los calculos buscados.
-
-Con esto se puede concluir, que los datos finales muestran una pequeña diferencia entre los valores medidos y calculados, y se podría dar esto de de la differencia por dos razones : al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez intervenga el hecho que no habiamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos. 
-
+Con esta prática hemos aprendido acerca de las funciones que presenta el generador de señales y la graficación que nos permite visualizar el osciloscopio, con esto podemos comprender los conceptos adquiridos.
 
 
 ## 11. RECOMENDACIONES
