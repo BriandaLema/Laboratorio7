@@ -28,21 +28,18 @@ La corriente alterna AC es aquella que varía su magnitud en función del tiempo
 
 **CARACTERÍSTICAS DE LAS ONDAS SENOIDALES**
 
-* **AMPLITUD**
-Medida de la variación máxima del desplazamiento de la onda senoidal en el tiempo.
-* **VALOR PICO (Vp)**
-Es el valor máximo que alcanza la señal senoidal.
-* **VALOR PICO A PICO (Vpp)**
-Magnitud entre el valor de pico positivo y el negativo, es decir, el doble del valor pico.
-* **PERÍODO**
-Tiempo que la onda necesita para completar un ciclo, se mide en segundos.
-* **FRECUENCIA**
-Cantidad de ciclos que se repiten en un segundo, se mide en Hertz.
-* **VALOR RMS O VALOR EFICAZ** 
-Se denomida valor rms al valor que tendrá una corriente continua para producir la misma potencia en corriente alterna sobre la misma resistencia.
+* **AMPLITUD:** Medida de la variación máxima del desplazamiento de la onda senoidal en el tiempo.
+* **VALOR PICO (Vp):** Es el valor máximo que alcanza la señal senoidal.
+* **VALOR PICO A PICO (Vpp):** Magnitud entre el valor de pico positivo y el negativo, es decir, el doble del valor pico.
+* **PERÍODO:** Tiempo que la onda necesita para completar un ciclo, se mide en segundos y la podemos calcular de dos formas: dividiendo 1 sobre la frecuencia y diviendo 2π sobre la velocidad angular (w).
+* **FRECUENCIA:** Cantidad de ciclos que se repiten en un segundo, se mide en Hertz, y la podemos calcular de dos formas: dividiendo 1 sobre el período y diviendo la velocidad angular(w) sobre 2π.
+* **VALOR RMS O VALOR EFICAZ:** Se denomida valor rms al valor que tendrá una corriente continua para producir la misma potencia en corriente alterna sobre la misma resistencia.
   
 ![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Caracter%C3%ADsticas%20de%20la%20onda%20senoidal.png)
-
+**1** - Valor pico.
+**2** - Valor pico a pico.
+**3** - Valor rms.
+**4** - Período.
 
 ## 4. DIAGRAMAS
 
