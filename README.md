@@ -60,7 +60,10 @@ Se denomida valor rms al valor que tendrá una corriente continua para producir 
 Se simula un circuito lineal, es un circuito con dos resistencias en serie conectadas a un generador de funciones.
 
 ![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Diagrama%201.png)
-![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Diagrama%202.png)
+
+Circuito en el simulador Multisim.
+
+![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Diagrama%202.jpeg)
 
 
 
@@ -181,11 +184,11 @@ Con esto se puede concluir, que los datos finales muestran una pequeña diferenc
 
 ## 11. RECOMENDACIONES
 
-Recomendamos que se debe asegurarse de tomar cálculos de una manera clara y ordenada,para asi no equivocarse en el hecho remplazar y tener como consecuencia un % de error excesivo. En este caso especificamente, se debe en tener en cuenta de desconectar las fuentes de poder paso segundo y tercer caso respectivamente.
+Recomendamos la previa conceptualización de los componentes del tema para una correcta medición y toma de valores de manera ordenada con el fin de no cometer errores teniendo como finalidad un error excesivo. 
 
-Se debe tener en mente, de si se equivoca al traducir el circuito teorico al simulador esto podria causarle problemas en sus calculos, entonces recomendable siempre calcular tus datos manualmente y de ahi proceder a ser el circuito simulado.
+Se debe tomar a consideración el graficar correctamente el circuito y transcribir correctamente los valores de la fuente, caso contrario no se logrará llegar a un objetivo y una comprobación. 
 
-Para terminar, sugerimos acordarse para calcular el voltaje de una region se le conecta al circuito directamente y para calcular intensidad se debe tratar al multimetro como un elemento del circuito y conectarle en serie.
+Sugerimos acordarse que para calcular el voltaje de una resistencia, el multímetro se lo conectará en paralelo a la misma, también se recomienda la correcta conexión del osciloscopio para tener una adecuada lectura y gráfica de la señal sinusoidal.
 
 
 ## 12. CRONOGRAMA
