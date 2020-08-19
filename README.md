@@ -5,20 +5,17 @@ TEMA: CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 **1,1.- GENERAL** 
 
-* Analizar experimentalmente el Teorema de Thévenin en un circuito resistivo.
+* Analizar experimentalmente las características de señales senoidales.
 
 **1,2.-ESPECÍFICOS**
 
-* Comprobar un circuito de corriente directa mediante la aplicación del Teorema de Thevenin .
+* Comprobar un circuito de corriente alterna con señal senoidal.
 
-* Verificar la manera de medir la resistencia y voltaje Thevenin de un circuito.
-
-* Reducir y solucionar un circuito mediante el Teorema de Thévenin.
-
+* Verificar la manera de medir el voltaje, periodo y frecuencia en señales senoidales
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 
-Este proyecto consistió en la implementación de un circuito mixto lineal, en un programa online denominado Tinkercad con la finalidad de experimentarel análisis mediante el Teorema de Thévenin. Se crea el circuito utilizando resistencias en serie y paralelo conectadas a fuentes variables, la cuál es la característica principal para poder utilizar el Teorema de superposición como un método de solución factible.
+Este proyecto consistió en la implementación de un circuito  lineal, en un programa online denominado Tinkercad con la finalidad de analizae las características de las señales senoidales. Se crea el circuito utilizando resistencias en serie conectadas a un generador de funciones, la cuál es la característica principal para poder utilizar un osciloscopi y poder visualizar el osciloscopio.
 
 
 ## 3. MARCO TEÓRICO 
@@ -59,15 +56,9 @@ Se denomida valor rms al valor que tendrá una corriente continua para producir 
 
 ## 4. DIAGRAMAS
 
-Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en paralelo y corriente conectadas a dos fuentes de voltaje de corriente directa.
+Se simula un circuito lineal, es un circuito con dos resistencias en serie conectadas a un generador de funciones.
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Circuitoo1.jpg)
-
-
-Comprobación del Teorema de Thévenin
-
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/circuito%202.jpg)
-
+![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/Circuito7.png)
 
 
 
@@ -88,9 +79,6 @@ Comprobación del Teorema de Thévenin
 Variables eléctricas: 
 
 * Voltaje
-* Corriente 
-* Resistores
-
 
 ## 7. EXPLICACIÓN CÓDIGO DE FUENTE
 
@@ -120,94 +108,6 @@ VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
 |----------|------|
 | 299 Ω | 298.86 Ω |
 
-COMPROBACIÓN DEL TEOREMA DE THÉVENIN 
-
- * **CIRCUITO ORIGINAL**
-
-* VOLTAJE (V)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 4.22 V | 3.9 V |
-
-* CORRIENTE (mA)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  4.22 mA | 3.9 mA |
-
-* **CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-* VOLTAJE (V)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  3.84 V | 3.89 V |
-
-* CORRIENTE (mA)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  3.84 mA| 3.89 mA  |
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN**
-
-Voltaje calculado= 5.06 V
-
-Voltaje medido= 5.0556 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((5.06 V - 5.0556 V)/ 5.06 V )* 100
-
-%error= 0.087 % 
-
-
-- **CÁLCULO DEL ERROR DE LA RESISTENCIA DE THÉVENIN**
-
-Resistencia calculada= 299 Ω 
-
-Resistencia medida= 298.86 Ω 
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(( 299 Ω - 298.86 Ω )/ 299 Ω )* 100
-
-%error= 0.047 % 
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO ORIGINAL**
-
-Voltaje calculado= 4.22 V
-
-Voltaje medido= 3.9 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((4.22 V - 3.9 V)/ 4.22 V)* 100
-
-%error= 7.58 % 
-
-- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO ORIGINAL**
-
-Corriente calculado= 4.22 mA
-
-Corriente medido= 3.9 mA
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((4.22 mA - 3.9 mA)/ 4.22 mA)* 100
-
-%error= 7.58 % 
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-Voltaje calculado= 3.84 V
-
-Voltaje medido= 3.89 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(|(3.84 V - 3.89 V)|/ 3.84 V )* 100
 
 %error= 1.30 % 
 
@@ -251,9 +151,10 @@ Para terminar, sugerimos acordarse para calcular el voltaje de una region se le 
 
 ## 12. CRONOGRAMA
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/CRONOGRAMA%205.png)
+![](https://github.com/BriandaLema/Laboratorio7/blob/master/img/LAB7.png)
 
-https://trello.com/b/UU1g7qMS/cronograma
+https://trello.com/b/psrtdBrJ/laboratorio-7
+
 
 ## 13. BIBLIOGRAFÍA
 
@@ -264,7 +165,7 @@ https://trello.com/b/UU1g7qMS/cronograma
 
 
 ## 14.- ANEXOS
-https://github.com/BriandaLema/Laboratorio5/blob/master/Anexos/ANEXOS%20LABORATORIO%205.pdf
+
 
 
 
